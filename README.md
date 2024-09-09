@@ -1,6 +1,6 @@
 # DeKiMaTo
 This is the shared repository for our group in the course Data 1 at AMS Institute.
-Members: **De**nnis, **Ki**ana, **Ma**rthe, **To**mmer (DeKiMaTo)
+Members: **De**nnis, **Ki**ana, **Ma**rthe, **To**mmer
 
 ## Assignment 1
 - [Download 1](https://www.youtube.com/watch?v=o-YBDTqX_ZU)
