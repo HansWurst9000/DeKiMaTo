@@ -1,6 +1,6 @@
 # Basic site settings
-title: MSc MADE data-1            # The title of your website
-description: 
+title: MSc MADE data 1            # The title of your website
+description: Dennis Jakobson, Kiana Motamedian, Marthe Meijer, Tommer Smits
 url: "https://hanswurst9000.github.io"   # Replace with your GitHub Pages URL
 baseurl: "/DeKiMaTo"                 # Use '/data-1' since you're deploying to a subdirectory
 
