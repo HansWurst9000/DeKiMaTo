@@ -1,0 +1,14 @@
+# Basic site settings
+title: MSc MADE data-1            # The title of your website
+description: 
+url: "https://hanswurst9000.github.io"   # Replace with your GitHub Pages URL
+baseurl: "/DeKiMaTo"                 # Use '/data-1' since you're deploying to a subdirectory
+
+# Theme settings
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
+# add this line to the plugins list if you already have one
+# Markdown settings
+markdown: kramdown                 # Jekyll uses kramdown by default for Markdown
