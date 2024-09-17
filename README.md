@@ -8,7 +8,7 @@ Members: **De**nnis, **Ki**ana, **Ma**rthe, **To**mmer
 ## Assignment 2
 **Histogram**  
 <img width="293" alt="Image1" src="https://github.com/user-attachments/assets/e5a95ae5-e5db-4546-94a1-84a95f0ee515">  
-Description: TYPE HERE  
+Description: This histogram displays the distribution of civilian counts across different ranges. The x-axis represents the number of civilians in groups of 25, while the y-axis shows the frequency or count of occurrences for each group. The graph reveals that the majority of cases involve lower numbers of civilians, with the highest frequency occurring in the 0-25 range. There's a general downward trend as the number of civilians increases, with very few instances in the higher ranges of 150-200 civilians. 
 
 **KDE Density Diagram**  
 <img width="372" alt="Image2" src="https://github.com/user-attachments/assets/59734cf9-2ecd-49ef-a549-316995eab73c">  
