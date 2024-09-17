@@ -33,7 +33,7 @@ Overall, the graph effectively visualizes a trend of escalating events or incide
 
 **Line diagram**  
 <img width="633" alt="Image4" src="https://github.com/user-attachments/assets/6ad97ff9-3b4a-4c56-84be-a3d490554c73">  
-Description: TYPE HERE  
+Description: This line graph shows a time series from January 2004 to November 2009, with the y-axis representing a count or measure that ranges from 0 to 400. There's a clear upward trend over time, with the values generally increasing from lower levels in 2004 to much higher and more volatile levels by 2009. The graph exhibits significant fluctuations throughout, with notable spikes occurring in mid-2006 and late 2009, where the count reaches its peak of nearly 400. 
 
 **Bar diagram**  
 <img width="631" alt="Image5" src="https://github.com/user-attachments/assets/54fa615d-baf3-421d-aec0-3c21067eebab">  
