@@ -16,7 +16,7 @@ Description: This graph depicts a density distribution of Taliban-related data p
 
 **Bar Plot Vertical**  
 <img width="637" alt="Image3" src="https://github.com/user-attachments/assets/9ff4f05d-bff1-484e-b62f-4366edd17a91">  
-Description: TYPE HERE  
+Description: This graph depicts the number of NATO soldiers killed over time, spanning from January 2004 to December 2009. The x-axis represents time in year-month format, while the y-axis shows the count of killed NATO soldiers. There is a clear increasing trend in fatalities over the years, with the numbers generally rising from 2004 to 2009. The data shows significant fluctuations from month to month, indicating the variable nature of conflict intensity. The highest peaks occur in the latter part of the graph, particularly in the summer months of 2008 and 2009, where casualties exceed 70 per month in some instances. There are also noticeable seasonal patterns, with higher casualty rates typically occurring in the summer months and lower rates in the winter. The graph provides a sobering visualization of the human cost of NATO's involvement in what appears to be an escalating conflict over this six-year period.  
 
 **Bar Plot Horizontal**  
 <img width="486" alt="Image3 2" src="https://github.com/user-attachments/assets/0ae4badf-03be-46ff-b7ea-1936e8c66d5c">  
