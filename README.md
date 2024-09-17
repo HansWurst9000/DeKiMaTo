@@ -12,7 +12,7 @@ Description: This histogram displays the distribution of civilian counts across 
 
 **KDE Density Diagram**  
 <img width="372" alt="Image2" src="https://github.com/user-attachments/assets/59734cf9-2ecd-49ef-a549-316995eab73c">  
-Description: TYPE HERE  
+Description: This graph depicts a density distribution of Taliban-related data points. The x-axis represents the number of Taliban, ranging from approximately -200 to 1200, while the y-axis shows the density or probability of occurrence. The distribution is positively skewed, with the highest peak occurring slightly above zero, indicating that smaller numbers of Taliban are most common. There is a secondary, smaller peak around 400, suggesting another cluster of data points in this range. The distribution tapers off towards the higher end, with very low density beyond 600, but there's a small uptick around 900-1000. The negative values on the x-axis likely represent a statistical artifact or error in data collection, as negative numbers of people are not logically possible in this context.
 
 **Bar Plot Vertical**  
 <img width="637" alt="Image3" src="https://github.com/user-attachments/assets/9ff4f05d-bff1-484e-b62f-4366edd17a91">  
