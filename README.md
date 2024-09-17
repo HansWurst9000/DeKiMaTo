@@ -6,7 +6,7 @@ Members: **De**nnis, **Ki**ana, **Ma**rthe, **To**mmer
 - [Download 1]()
 
 ## Assignment 2
-- [Download 2]()
+- <img src="C:\Users\Dennis\Desktop\Data1\Week2\lab-01\Images\Image1" title=""/>
 
 ## Assignment 3
 - [Download 3]()
