@@ -37,7 +37,7 @@ Description: This line graph shows a time series from January 2004 to November 2
 
 **Bar diagram**  
 <img width="631" alt="Image5" src="https://github.com/user-attachments/assets/54fa615d-baf3-421d-aec0-3c21067eebab">  
-Description: TYPE HERE  
+Description: This bar graph displays monthly data from January 2004 to December 2009, with the x-axis showing year and month, and the y-axis representing a count that ranges from 0 to 400. There's a clear upward trend over time, with the counts generally increasing from lower values in 2004 to much higher values by 2009. Significant fluctuations are evident throughout the timeline, with notable spikes occurring in mid-2006 and late 2009, where the count reaches its peak of nearly 400. The graph shows seasonal patterns, with higher counts often appearing in summer months across multiple years. Overall, the data suggests an escalating phenomenon or event frequency over the six-year period, with the highest intensity observed in the final year.
 
 
 ## Assignment 3
