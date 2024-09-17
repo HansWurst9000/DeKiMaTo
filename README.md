@@ -6,7 +6,7 @@ Members: **De**nnis, **Ki**ana, **Ma**rthe, **To**mmer
 - [Download 1]()
 
 ## Assignment 2
-- <img src="C:\Users\Dennis\Desktop\Data1\Week2\lab-01\Images\Image1" title=""/>
+<img width="293" alt="Image1" src="https://github.com/user-attachments/assets/e5a95ae5-e5db-4546-94a1-84a95f0ee515">
 
 ## Assignment 3
 - [Download 3]()
