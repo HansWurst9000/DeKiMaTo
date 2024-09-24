@@ -44,6 +44,6 @@ Description: This bar graph displays monthly data from January 2004 to December 
 - [Assignment 3]((https://github.com/HansWurst9000/DeKiMaTo/blob/main/Assignment%203.ipynb))
 
 ## Assignment 4
-- [Place holder 4]()
+- [Place holder 4](https://www.youtube.com/watch?v=LdSwWxVzUpo)
 
 ## Hackathon Coming soon...
