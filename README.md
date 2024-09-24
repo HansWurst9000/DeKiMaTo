@@ -41,7 +41,7 @@ Description: This bar graph displays monthly data from January 2004 to December 
 
 
 ## Assignment 3
-- [Place holder 3]()
+- [Place holder 3](Assignment 3.ipynb)
 
 ## Assignment 4
 - [Place holder 4]()
